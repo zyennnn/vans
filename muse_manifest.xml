@@ -1,0 +1,238 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vansoffthewall.com" resolutions="1x" timestamp="1559551430276">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="217500814" ref="sk8-hi:era:os:slip-on:liên-hệ:giới-thiệu:index:sản-phẩm:auth"/>
+    <file name="sk8-hi.css" crc="405726517" ref="sk8-hi"/>
+    <file name="era.css" crc="282305816" ref="era"/>
+    <file name="os.css" crc="3760448285" ref="os"/>
+    <file name="slip-on.css" crc="105019703" ref="slip-on"/>
+    <file name="li_n-h_.css" crc="4264793909" ref="liên-hệ"/>
+    <file name="gi_i-thi_u.css" crc="508075585" ref="giới-thiệu"/>
+    <file name="index.css" crc="4093614825" ref="index"/>
+    <file name="s_n-ph_m.css" crc="396646380" ref="sản-phẩm"/>
+    <file name="auth.css" crc="4284498426" ref="auth"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:giới-thiệu:sản-phẩm:liên-hệ:os:auth:sk8-hi:slip-on:era"/>
+    <file name="museutils.js" crc="340535759" ref="index:giới-thiệu:sản-phẩm:liên-hệ:os:auth:sk8-hi:slip-on:era"/>
+    <file name="whatinput.js" crc="86476730" ref="index:giới-thiệu:sản-phẩm:liên-hệ:os:auth:sk8-hi:slip-on:era"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:giới-thiệu:sản-phẩm:liên-hệ:os:auth:sk8-hi:slip-on:era"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:giới-thiệu:sản-phẩm:liên-hệ:os:auth:sk8-hi:slip-on:era"/>
+    <file name="webpro.js" crc="4059564322" ref="index:os:auth:sk8-hi:slip-on:era"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:os:auth:sk8-hi:slip-on:era"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:os:auth:sk8-hi:slip-on:era"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:os:auth:sk8-hi:slip-on:era"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:giới-thiệu:sản-phẩm:liên-hệ:os:auth:sk8-hi:slip-on:era"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:giới-thiệu:sản-phẩm:liên-hệ:os:auth:sk8-hi:slip-on:era"/>
+    <file name="require.js" crc="7928878" ref="index:giới-thiệu:sản-phẩm:liên-hệ:os:auth:sk8-hi:slip-on:era"/>
+  </folder>
+  <folder name="images">
+    <file name="vans-logo-249x39.png" crc="4238866723" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="layer 1 (4).jpg" crc="4152537589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12312314.jpg" crc="4120566203" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vans_stamp_white.jpg" crc="3775390883" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="123124.png" crc="61440856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:os:auth:sk8-hi:slip-on:era"/>
+    <file name="tải xuống.png" crc="359765383" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="24532.png" crc="241987599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1231415.png" crc="248783228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="era.png" crc="4113241571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:os:auth:sk8-hi:slip-on:era"/>
+    <file name="vans.gif" crc="4125948200" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1189-4.png" crc="4232368388" ref="index"/>
+    <file name="layer 1 (5)329x33.jpg" crc="112718621" seo="true" ref="giới-thiệu">
+      <caption webpage="giới-thiệu" alt=""/>
+    </file>
+    <file name="tải xuống (4).jpg" crc="4156733642" seo="true" ref="giới-thiệu">
+      <caption webpage="giới-thiệu" alt=""/>
+    </file>
+    <file name="sadaf.jpg" crc="3954051512" seo="true" ref="giới-thiệu">
+      <caption webpage="giới-thiệu" alt=""/>
+    </file>
+    <file name="vans-logo-2-crop-u1568.png" crc="4145099535" seo="true" ref="giới-thiệu">
+      <caption webpage="giới-thiệu" alt=""/>
+    </file>
+    <file name="322526.jpg" crc="3959918364" seo="true" ref="giới-thiệu">
+      <caption webpage="giới-thiệu" alt=""/>
+    </file>
+    <file name="tải xuống (1).jpg" crc="245706062" seo="true" ref="giới-thiệu">
+      <caption webpage="giới-thiệu" alt=""/>
+    </file>
+    <file name="tải xuống.jpg" crc="510647604" seo="true" ref="giới-thiệu">
+      <caption webpage="giới-thiệu" alt=""/>
+    </file>
+    <file name="layer 1 (5).jpg" crc="4116373542" seo="true" ref="giới-thiệu">
+      <caption webpage="giới-thiệu" alt=""/>
+      <caption webpage="giới-thiệu" alt=""/>
+    </file>
+    <file name="vans classic-1170x248.jpg" crc="4002915551" seo="true" ref="sản-phẩm">
+      <caption webpage="sản-phẩm" alt=""/>
+    </file>
+    <file name="tải xuống (6).png" crc="53787885" seo="true" ref="sản-phẩm:sk8-hi">
+      <caption webpage="sk8-hi" alt=""/>
+      <caption webpage="sản-phẩm" alt=""/>
+    </file>
+    <file name="gff.gif" crc="232849781" seo="true" ref="sản-phẩm">
+      <caption webpage="sản-phẩm" alt=""/>
+    </file>
+    <file name="tải xuống (2).png" crc="332826500" seo="true" ref="sản-phẩm:slip-on">
+      <caption webpage="sản-phẩm" alt=""/>
+      <caption webpage="slip-on" alt=""/>
+    </file>
+    <file name="ewzblk-hero.jpg" crc="387304952" seo="true" ref="sản-phẩm:era">
+      <caption webpage="era" alt=""/>
+      <caption webpage="sản-phẩm" alt=""/>
+    </file>
+    <file name="ee3blk-hero.jpg" crc="427859057" seo="true" ref="sản-phẩm:auth">
+      <caption webpage="sản-phẩm" alt=""/>
+      <caption webpage="auth" alt=""/>
+    </file>
+    <file name="vnass.png" crc="162196495" seo="true" ref="sản-phẩm:os">
+      <caption webpage="os" alt=""/>
+      <caption webpage="sản-phẩm" alt=""/>
+    </file>
+    <file name="layer 1 (5)497x50.jpg" crc="4093338368" seo="true" ref="liên-hệ">
+      <caption webpage="liên-hệ" alt=""/>
+    </file>
+    <file name="a6bbf7758ca557bb3b46524c3ed8fa26.jpg" crc="206395283" seo="true" ref="liên-hệ">
+      <caption webpage="liên-hệ" alt=""/>
+    </file>
+    <file name="1.jpg" crc="125853329" seo="true" ref="os">
+      <caption webpage="os" alt=""/>
+    </file>
+    <file name="tải xuống (1)1.jpg" crc="426078870" seo="true" ref="os">
+      <caption webpage="os" alt=""/>
+    </file>
+    <file name="tải xuống (2)2.jpg" crc="66177299" seo="true" ref="os">
+      <caption webpage="os" alt=""/>
+    </file>
+    <file name="vnass79x79.png" crc="4119646101" seo="true" ref="os">
+      <caption webpage="os" alt=""/>
+    </file>
+    <file name="179x79.jpg" crc="351078274" seo="true" ref="os">
+      <caption webpage="os" alt=""/>
+    </file>
+    <file name="tải xuống (1)179x79.jpg" crc="262835163" seo="true" ref="os">
+      <caption webpage="os" alt=""/>
+    </file>
+    <file name="tải xuống (2)279x79.jpg" crc="320619067" seo="true" ref="os">
+      <caption webpage="os" alt=""/>
+    </file>
+    <file name="layer 1 (5)328x33.jpg" crc="4087735244" seo="true" ref="os">
+      <caption webpage="os" alt=""/>
+    </file>
+    <file name="789.jpg" crc="4040150032" seo="true" ref="auth">
+      <caption webpage="auth" alt=""/>
+    </file>
+    <file name="1231455.jpg" crc="185121111" seo="true" ref="auth">
+      <caption webpage="auth" alt=""/>
+    </file>
+    <file name="121525346457567.jpg" crc="206881380" seo="true" ref="auth">
+      <caption webpage="auth" alt=""/>
+    </file>
+    <file name="ee3blk-hero79x79.jpg" crc="4088152251" seo="true" ref="auth">
+      <caption webpage="auth" alt=""/>
+    </file>
+    <file name="78979x79.jpg" crc="3999074901" seo="true" ref="auth">
+      <caption webpage="auth" alt=""/>
+    </file>
+    <file name="123145579x79.jpg" crc="3900210238" seo="true" ref="auth">
+      <caption webpage="auth" alt=""/>
+    </file>
+    <file name="12152534645756779x79.jpg" crc="3907982218" seo="true" ref="auth">
+      <caption webpage="auth" alt=""/>
+    </file>
+    <file name="12314.jpg" crc="4582257" seo="true" ref="sk8-hi">
+      <caption webpage="sk8-hi" alt=""/>
+    </file>
+    <file name="tải xuống (5).jpg" crc="128682921" seo="true" ref="sk8-hi">
+      <caption webpage="sk8-hi" alt=""/>
+    </file>
+    <file name="1231245143657.jpg" crc="247836786" seo="true" ref="sk8-hi">
+      <caption webpage="sk8-hi" alt=""/>
+    </file>
+    <file name="1231479x79.jpg" crc="3834303845" seo="true" ref="sk8-hi">
+      <caption webpage="sk8-hi" alt=""/>
+    </file>
+    <file name="tải xuống (5)79x79.jpg" crc="500678970" seo="true" ref="sk8-hi">
+      <caption webpage="sk8-hi" alt=""/>
+    </file>
+    <file name="tải xuống (6)79x79.png" crc="4117863147" seo="true" ref="sk8-hi">
+      <caption webpage="sk8-hi" alt=""/>
+    </file>
+    <file name="123124514365779x79.jpg" crc="240009871" seo="true" ref="sk8-hi">
+      <caption webpage="sk8-hi" alt=""/>
+    </file>
+    <file name="ádasf sdg.jpg" crc="221166477" seo="true" ref="slip-on">
+      <caption webpage="slip-on" alt=""/>
+    </file>
+    <file name="tải xuống (3).jpg" crc="3864700042" seo="true" ref="slip-on">
+      <caption webpage="slip-on" alt=""/>
+    </file>
+    <file name="tải xuống2.jpg" crc="487506024" seo="true" ref="slip-on">
+      <caption webpage="slip-on" alt=""/>
+    </file>
+    <file name="ádasf sdg79x79.jpg" crc="80763793" seo="true" ref="slip-on">
+      <caption webpage="slip-on" alt=""/>
+    </file>
+    <file name="tải xuống (2)79x79.png" crc="166881656" seo="true" ref="slip-on">
+      <caption webpage="slip-on" alt=""/>
+    </file>
+    <file name="tải xuống (3)79x79.jpg" crc="134180133" seo="true" ref="slip-on">
+      <caption webpage="slip-on" alt=""/>
+    </file>
+    <file name="tải xuống79x79.jpg" crc="4274986537" seo="true" ref="slip-on">
+      <caption webpage="slip-on" alt=""/>
+    </file>
+    <file name="1231423546789wqeqw.jpg" crc="68522226" seo="true" ref="era">
+      <caption webpage="era" alt=""/>
+    </file>
+    <file name="sadas dfdsf gdfg s.jpg" crc="4184137520" seo="true" ref="era">
+      <caption webpage="era" alt=""/>
+    </file>
+    <file name="sadfdb bewfasx.jpg" crc="25234366" seo="true" ref="era">
+      <caption webpage="era" alt=""/>
+    </file>
+    <file name="1231423546789wqeqw79x79.jpg" crc="319451985" seo="true" ref="era">
+      <caption webpage="era" alt=""/>
+    </file>
+    <file name="ewzblk-hero79x79.jpg" crc="4000702501" seo="true" ref="era">
+      <caption webpage="era" alt=""/>
+    </file>
+    <file name="sadas dfdsf gdfg s79x79.jpg" crc="206288280" seo="true" ref="era">
+      <caption webpage="era" alt=""/>
+    </file>
+    <file name="sadfdb bewfasx79x79.jpg" crc="4269656288" seo="true" ref="era">
+      <caption webpage="era" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="402549253" seo="true" mt="1559551366478" redirect="true"/>
+  <file name="giới-thiệu.html" crc="3863649949" seo="true" mt="1559551381928" redirect="true"/>
+  <file name="sản-phẩm.html" crc="518675282" seo="true" mt="1559551366478" redirect="true"/>
+  <file name="liên-hệ.html" crc="497942210" seo="true" mt="1559551366478" redirect="true"/>
+  <file name="os.html" crc="4217740682" seo="true" mt="1559551366478" redirect="true"/>
+  <file name="auth.html" crc="33878952" seo="true" mt="1559551366478" redirect="true"/>
+  <file name="sk8-hi.html" crc="447211529" seo="true" mt="1559551366478" redirect="true"/>
+  <file name="slip-on.html" crc="154588179" seo="true" mt="1559551366478" redirect="true"/>
+  <file name="era.html" crc="4171651505" seo="true" mt="1559551366478" redirect="true"/>
+</manifest>
